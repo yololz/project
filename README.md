@@ -39,4 +39,6 @@ random
 
 設定 各結果代表的亮燈
 
+S0=藍燈 , S1=紅燈 , S2=綠燈 , S3=不亮燈
+
 ![image](https://user-images.githubusercontent.com/122535127/212095897-cede17cc-6d34-4d91-9e36-5e8c09979e71.png)
