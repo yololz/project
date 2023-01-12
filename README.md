@@ -28,7 +28,11 @@ random
 
 ![image](https://user-images.githubusercontent.com/122535127/212092196-dc7a45f2-819d-4be0-be16-082a2a39c67e.png)
 
+玩家輸入所代表的是剪刀、石頭 或 布
+
 ![image](https://user-images.githubusercontent.com/122535127/212095257-155f61a0-89c1-49f2-ad1a-56e045d59056.png)
+
+和fpga_choice做猜拳 並印出結果
 
 
 ![image](https://user-images.githubusercontent.com/122535127/212095667-bc2160d7-d17a-4657-bdf6-10c6dc0b6049.png)
