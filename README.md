@@ -15,6 +15,11 @@ s1、s2、s3、s4 決定出 剪刀、石頭、布、開始
 
 功能說明：玩家透過按鍵與FPGA做猜拳，顯示結果在上方LED與8*8LED矩陣亮燈
 
+輸入 輸出設置
+
+![image](https://user-images.githubusercontent.com/122535127/212103923-857512ec-f253-4a0b-b07f-ea8b7c7195c8.png)
+
+
 random
 
 ![image](https://user-images.githubusercontent.com/122535127/212089891-ae9e18a6-2983-4b32-8786-b79c4b331a79.png)
